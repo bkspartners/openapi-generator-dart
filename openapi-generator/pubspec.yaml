@@ -13,13 +13,13 @@ dependencies:
   path: '>=1.0.0 <=2.0.0'
   openapi_generator_annotations:
     git:
-      url: https://github.com/devterm-its/openapi-generator-dart.git
+      url: https://github.com/bkspartners/openapi-generator-dart.git
       ref: master
       path: openapi-generator-annotations
   analyzer: '>=2.0.0 <7.0.0'
   openapi_generator_cli:
     git:
-      url: https://github.com/devterm-its/openapi-generator-dart.git
+      url: https://github.com/bkspartners/openapi-generator-dart.git
       ref: master
       path: openapi-generator-cli
   yaml: ^3.1.2
